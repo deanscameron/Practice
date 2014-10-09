@@ -2,4 +2,4 @@ Practice file for Git exercises
 
 A second line of code in my file
 
-A deliberate mistake to be rectified at a later date
+Mistake removed on 'different' computer 
