@@ -4,5 +4,8 @@ A second line of code in my file
 
 This line is correct but I haven't yet spotted the mistake I made one the line above
 
+Mistake removed on 'different' computer 
 
+This is written by me
 
+this one was added by me 
