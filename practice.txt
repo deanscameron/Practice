@@ -3,3 +3,5 @@ Practice file for Git exercises
 A second line of code in my file
 
 Mistake removed on 'different' computer 
+
+This is written by me
