@@ -2,8 +2,8 @@ Practice file for Git exercises
 
 A second line of code in my file
 
-Mistak rmoved on 'diffrnt' computr 
+Mistake removed on 'different' computer 
 
-This is writtn by m
+This is written by me
 
-Right, time to make some changs
+Right, time to make some changes
